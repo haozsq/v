@@ -1,1 +1,20 @@
-dm1lc3M6Ly9leUpvYjNOMElqb2lJaXdpY0dGMGFDSTZJaUlzSW5Sc2N5STZJaUlzSW5abGNtbG1lVjlqWlhKMElqcDBjblZsTENKaFpHUWlPaUl5TWpJaUxDSndiM0owSWpvME5ETXNJbUZwWkNJNk1Dd2libVYwSWpvaWRHTndJaXdpZEhsd1pTSTZJbTV2Ym1VaUxDSjJJam9pTWlJc0luQnpJam9pTWpJeUlpd2lhV1FpT2lJME9UTTVNemRqTlMxbU5ESTRMVE5oWkRndFltVmpZeTA1TUdWbE1ESTFNemhpWVRnaUxDSmpiR0Z6Y3lJNk1IMD0Kdm1lc3M6Ly9leUpvYjNOMElqb2lhR2x1WlhRd015MXJlUzEyYVhBd0xYUjNMV2hrWjJGcWRISm5MbXQxZVdsdVp6WTJOaTV1WlhRaUxDSndZWFJvSWpvaUwzWXljbUY1SWl3aWRHeHpJam9pSWl3aWRtVnlhV1o1WDJObGNuUWlPblJ5ZFdVc0ltRmtaQ0k2SW1ocGJtVjBNRE10YTNrdGRtbHdNQzEwZHkxb1pHZGhhblJ5Wnk1cmRYbHBibWMyTmpZdWJtVjBJaXdpY0c5eWRDSTZOalkyTENKaGFXUWlPaklzSW01bGRDSTZJbmR6SWl3aWRIbHdaU0k2SW01dmJtVWlMQ0oySWpvaU1pSXNJbkJ6SWpvaTVZK3c1cm0rTWpZMExVNUc0NENRNVlXTjZMUzU0NENSZkZZeWNtRjVMZW1aa09tQW56RXdUU0lzSW1sa0lqb2lORGt6T1RNM1l6VXRaalF5T0MwellXUTRMV0psWTJNdE9UQmxaVEF5TlRNNFltRTRJaXdpWTJ4aGMzTWlPakI5Cgo=
+Ubuntu/Debian 系统安装命令：
+
+apt-get update -y && apt-get install curl -y  
+apt-get install xz-utils 
+bash <(curl -s -L https://github.com/V2RaySSR/Trojan/raw/master/Trojan.sh)
+
+---------------------------------------
+Centos系统安装命令：
+
+yum update -y && yum install curl -y 
+yum install xz
+bash <(curl -s -L https://github.com/V2RaySSR/Trojan/raw/master/Trojan.sh)
+
+----------------------------------------
+安装V2ray脚本：
+
+apt-get update -y && apt-get install curl -y
+bash <(curl -s -L https://git.io/v2ray.sh)
+
+
