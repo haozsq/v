@@ -1,3 +1,19 @@
+文本传送
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ubuntu/Debian 系统安装命令：
 
 apt-get update -y && apt-get install curl -y  
